@@ -3,3 +3,5 @@
 Interfacing Ultrasonic sensor with Tivac Launchpad.
 
 modules used: Timer2, UART
+
+Main file: blinky.c
